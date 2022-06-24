@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Main color -->
+    <color name="ui_components_android_color_primary">#F40000</color>
+
+    <!-- Toolbar's text color -->
+    <!-- Default: @color/ui_components_white_color -->
+    <color name="px_toolbar_text">#F40000</color>
+
+    <!-- Status Bar color -->
+    <color name="ui_components_android_color_primary_dark">#8f2626</color>
+
+    <!-- Spinner primary color -->
+    <!-- Default: @color/ui_components_android_color_primary -->
+    <color name="ui_components_spinner_primary_color">#F40000</color>
+
+    <!-- Spinner secondary color -->
+    <!-- Default: @color/ui_components_android_color_primary -->
+    <color name="ui_components_spinner_secondary_color">#F40000</color>
+
+    <!-- Spinner background color -->
+    <!-- Default: @color/ui_components_white_color -->
+    <color name="px_background_loading">#FFF</color>
+
+    <!-- Payment method icon color -->
+    <!-- Default: @color/ui_components_android_color_primary -->
+    <color name="px_paymentMethodTint">#F40000</color>
+
+    <!-- Inputs color -->
+    <!-- Default: @color/ui_components_android_color_primary -->
+    <color name="px_input">#F40000</color>
+</resources>
